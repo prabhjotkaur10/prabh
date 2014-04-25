@@ -1,4 +1,7 @@
 File2.txt
 
 This is
-admin file
+admin hello
+merging conflicts
+hiee
+prabhjot
