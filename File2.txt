@@ -1,4 +1,6 @@
 File2.txt
 
 This is
-admin file
+admin file1
+-----------
+merge changes
