@@ -4,3 +4,7 @@ Newfile test
 change
 changes are done
 only for conflicts
+newone
+changesss
+nonoaks
+
