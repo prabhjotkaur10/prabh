@@ -2,3 +2,5 @@ File3.txt
 
 Newfile test
 change
+changes are done
+only for conflicts
