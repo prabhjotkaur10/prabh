@@ -4,3 +4,7 @@ This is
 admin file1
 -----------
 merge changes
+admin hello
+merging conflicts
+hiee
+prabhjot
